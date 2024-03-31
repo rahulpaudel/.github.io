@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Projects"
-    url: _pages/SiteMap.md
+    url: /sitemap/
 
  # - title: "Talks"
     url: /talks/    
