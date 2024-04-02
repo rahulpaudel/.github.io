@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "Spotify Popularity Prediction Model"
 excerpt: "Using song characteristics to predict popularity"
 permalink: /Spotify/
+author_profile: true
 
 
 ---
