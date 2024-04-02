@@ -50,14 +50,14 @@ This graph illustrates changes in characteristics across songs cataloged in Spot
 
 This Heatmap shows the relationship of sonic features with the popularity of a song. 
 
+![ ](/files/output_12_1.png)
+
 ### Notable insights:
 
 ### (+)  Postive relationship: Danceability, Energy, and Loudness
 
 ### (-)  Negative relationship: Acousticness, Instrumentalness, and Duration
 
-
-![ ](/files/output_12_1.png)
 
     
 
@@ -68,7 +68,10 @@ After gaining a better understanding of how song features have evolved over time
 
 The popularity score, which favors more recent streams, tends to be biased toward the average characteristics of recent songs. We have observed that these characteristics differ, on average, from songs released in prior periods. To mitigate this bias, we will subset the dataset to include only recently released songs. This will provide a more unbiased training set for the algorithm to use when predicting popularity based on song characteristics.
 
+
 ### **To address this bias going forward, only songs released since 2019 will be included in the analysis and model training.**
+
+
 
 # Building a Predictive Model
 
@@ -141,4 +144,4 @@ A more accurate understanding of predicting track popularity necessitates a comp
 ---
 
 
-For those interested in recreating or extending this analysis, you can access the code in a Jupyter Notebook [here]().
+For those interested in recreating or extending this analysis, you can access the code in a Jupyter Notebook [here](https://github.com/guymonmatt/guymonmatt.github.io/blob/3f49b67657d952475f619bb179f2262adfb5eb84/notebooks/Spotify%20Prediction%20Markdown-Short.ipynb).
