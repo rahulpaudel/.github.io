@@ -15,4 +15,4 @@ Each of the projects I chose to showcase are related to real-world problems I wo
 
 ### Spotify Prediction Model ###
 
-Using a massive dataset of 500,000+ songs from Spotify, I bulit a model that can predict the popularity level of a track based on characterisitcs of the song. This analysis features interactive graphs that display trends in song characteristics from 1922-2019.
+Using a massive dataset of 500,000+ songs from Spotify, I bulit a model that can predict the popularity level of a track based on characterisitcs of the song. The notebook for this analysis features an interactive graph that display trends in song characteristics from 1922-2019.
