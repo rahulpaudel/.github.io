@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-Whether music listeners are aware of it or not, much of their music taste is shaped by the algorithms used by streaming services. This sometimes controversial truth, as highlighted in a [Guardian article](https://www.theguardian.com/music/2018/oct/05/10-years-of-spotify-should-we-celebrate-or-despair), exemplifies the increasing dependence of entertainment streaming services and social media platforms on machine-learning processes to recommend content to users. Surprisingly insightful discoveries can be made by examining the features that these models utilize to better understand why some content appears to be more 'popular' than others.
+Whether music listeners are aware of it or not, much of their music taste is shaped by the algorithms used by streaming services. This [sometimes controversial truth](https://www.theguardian.com/music/2018/oct/05/10-years-of-spotify-should-we-celebrate-or-despair) exemplifies the increasing dependence of entertainment streaming services and social media platforms on machine-learning processes to recommend content to users. Surprisingly insightful discoveries can be made by examining the features that these models utilize to better understand why some content appears to be more 'popular' than others.
 
 For example, Spotify employs machine-learning algorithms to analyze audio data for each individual song and assign ratings to its sonic characteristics. These features are considered when assigning songs to auto-generated playlists or making recommendations to users based on sonic similarities to their listening history.
 
