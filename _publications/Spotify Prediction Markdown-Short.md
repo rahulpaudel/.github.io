@@ -28,7 +28,7 @@ I added an additional column that categorizes a song's popularity score into one
 
 ## Change in Average Song Features Over Time
 
-This graph displays the change in the yearly average of all songs released in a given year over time. Each feature has been scaled to ensure they are on the same scale for better comparison across different features.
+This graph displays the change in the yearly average of characteristics for all songs released in a given year over time. Each feature has been scaled to ensure they are on the same relative scale for a comparison of relative change across the different features.
 
 This graph illustrates changes in characteristics across songs cataloged in Spotify's database over time.
 
