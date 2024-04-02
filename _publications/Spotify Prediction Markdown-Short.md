@@ -57,7 +57,7 @@ This Heatmap shows the relationship of sonic features with the popularity of a s
 ### (-)  Negative relationship: Acousticness, Instrumentalness, and Duration
 
 
-![ ](files/output_12_1.png)
+![ ](/files/output_12_1.png)
 
     
 
