@@ -28,9 +28,11 @@ I added an additional column that categorizes a song's popularity score into one
 
 ## Change in Average Song Features Over Time
 
-This interactive graph displays the change in the yearly average of all songs released in a given year over time. Each feature has been scaled to ensure they are on the same scale for better comparison across different features.
+This graph displays the change in the yearly average of all songs released in a given year over time. Each feature has been scaled to ensure they are on the same scale for better comparison across different features.
 
 This graph illustrates changes in characteristics across songs cataloged in Spotify's database over time.
+
+![ ](/files/changinfeatave.png)
 
 
 
@@ -55,7 +57,8 @@ This Heatmap shows the relationship of sonic features with the popularity of a s
 ### (-)  Negative relationship: Acousticness, Instrumentalness, and Duration
 
 
-Heat map
+![ ](files/output_12_1.png)
+
     
 
 
