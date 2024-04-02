@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Projects"
+  - title: "Test"
     url: https://github.com/guymonmatt/guymonmatt.github.io/blob/ea82e36c5156d71a9d2b3a55125cde0eda92492a/_publications/2024-3-30-test_.md%20(1).md
 
  # - title: "Talks"
-    url: /talks/    
+   # url: /talks/    
 
  # - title: "Teaching"
-    url: /teaching/    
+   # url: /teaching/    
     
  # - title: "Portfolio"
-    url: /portfolio/
+  #  url: /portfolio/
         
 #  - title: "Blog Posts"
-    url: /year-archive/
+  #  url: /year-archive/
     
 #  - title: "CV"
-    url: /cv/
-    
+  #  url: /cv/
+  #  
 #  - title: "Guide"
-    url: /markdown/
+  #  url: /markdown/
