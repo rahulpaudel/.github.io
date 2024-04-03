@@ -77,7 +77,7 @@ The popularity score, which favors more recent streams, tends to be biased towar
 
 With a better understanding of the characteristics associated with popular songs, we can attempt to build a predictive model that emulates the algorithm Spotify uses to predict whether a song will be popular among listeners based on sonic characteristics alone.
 
-The Random Forest algorithm is the best choice for a predictive model in this context. Random Forest models are resistant to overfitting, which is important for a scalable model that would be used across Spotify's massive database of tracks, exceeding 100 million. Additionally, Random Forest has strong capabilities to capture complex and non-linear relationships, while also resisting outliers and noisy data present in this dataset, such as the non-music white noise tracks, for example.
+The Random Forest algorithm is the best choice for a predictive model in this context. Random Forest models are resistant to overfitting, which is important for a scalable model that would be used across Spotify's massive database of tracks, exceeding 100 million. Additionally, Random Forest has strong capabilities to capture complex and non-linear relationships, while also resisting outliers and noisy data present in this dataset.
 
 This model will be trained on 75% of the data and then validated using the remaining 25%.
 
