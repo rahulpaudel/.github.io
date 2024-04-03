@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-## Click on the tabs above to view the full details for each project ## 
+## Click on the tab above to view the full details for the project ## 
 
 
-Each of the projects I chose to showcase are related to real-world problems I would like to solve. My interests are in entertainment data and social issues that I've worked to solve in my internship experience. Below are brief descriptions of the topics I've investigated.
+The current project in this showcase is related to my interest in the use of machine-learning models in entertainment data. Future projects will be associated with social issues that I've worked to solve in my internship experience. Below is a brief description of the currently showcased project.
+
 
 
 ### Spotify Prediction Model ###
