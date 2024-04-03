@@ -10,7 +10,7 @@ redirect_from:
 ## Click on the tabs above to view the full details for each project ## 
 
 
-Each of the projects I chose to showcase are related to real-world problems I would like to solve. My interests are primarily in music/ entertainment data or social issues that I've worked to solve in my internship experience. Below are brief descriptions of the topics I've investigated.
+Each of the projects I chose to showcase are related to real-world problems I would like to solve. My interests are in entertainment data and social issues that I've worked to solve in my internship experience. Below are brief descriptions of the topics I've investigated.
 
 
 ### Spotify Prediction Model ###
