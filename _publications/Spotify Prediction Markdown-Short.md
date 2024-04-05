@@ -48,7 +48,7 @@ This graph illustrates changes in characteristics across songs cataloged in Spot
 
 ## Sonic Characteristic Correlation Heatmap
 
-This Heatmap shows the relationship of sonic features with the popularity of a song. 
+This Heatmap shows the relationship of sonic features for songs within the dataset. If the intersection for two characteristics is red, they have a high positive correlation. If the interesection is blue, they have a high negative correlation. 
 
 ![ ](/files/output_12_1.png)
 
