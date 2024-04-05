@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my portfolio of Data Analysis projects!"
+title: "Welcome To My Portfolio Of Data Analysis Projects!"
 author_profile: true
 redirect_from: 
   - /about/
