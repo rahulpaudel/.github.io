@@ -9,7 +9,10 @@ author_profile: true
 For my capstone project in Sports Analytics, I took a deep dive into NBA player performance. Partnering with Logan Thornhill, we dissect the relationship between true shooting percentage (TS%) and net rating, unveiling their impact on a player's ability to score. Through a muleitple regression analysis, we offer insights into the NBA's competitive landscape, guiding strategic decisions in basketball and beyond.
 
 
-[NBA Analytics Multiple Regression](_publications/Sports_Analytics_Final_Project.pdf)
+[Link text](_publications/Sports_Analytics_Final_Project.pdf)
+
+
+
 
 
 ---
