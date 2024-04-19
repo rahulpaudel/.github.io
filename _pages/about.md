@@ -1,16 +1,14 @@
 ---
 permalink: /
-title: "Welcome To My Portfolio Of Data Analysis Projects!"
+title: "Welcome To My Portfolio!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Click on the tab above to view the full details for the project ## 
+##  ## 
 
-Welcome to my portfolio! 
-
-
+Welcome to my portfolio! I am Rahul Paudel, a current student at the Unviersity of Oregon. I will use this portfolio to showcase my projects, both academic and pesonal. Stay tuned for more as I update my portfolio with more projects! 
 
 
